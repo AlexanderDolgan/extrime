@@ -1,0 +1,21 @@
+{
+  "name": "extrime",
+  "homepage": "https://github.com/AlexanderDolgan/extrime",
+  "authors": [
+    "Alexander Dolgan <5704737@gmail.com>"
+  ],
+  "description": "site for extrimal drive school",
+  "main": "",
+  "moduleType": [],
+  "keywords": [
+    "etrime"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
