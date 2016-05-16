@@ -4,13 +4,20 @@
   "authors": [
     "Alexander Dolgan <5704737@gmail.com>"
   ],
-  "description": "site for extrimal drive school",
+  "dependencies": {
+    "foundation-sites": "latest",
+    "motion-ui": "latest",
+    "normalize": "latest"
+  },
+  "description": "site for extrimal driving school",
   "main": "",
   "moduleType": [],
   "keywords": [
-    "etrime"
+    "extrime",
+    "driving"
   ],
   "license": "MIT",
+  "private": true,
   "ignore": [
     "**/.*",
     "node_modules",
