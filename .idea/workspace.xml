@@ -2,6 +2,117 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="200874b8-8e63-411d-ad5e-c0a6da9aa9cd" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_accordion-menu.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_accordion.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/242c811d428b0200d8a9c9542c50fdfdf984b7dd/_alignment.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_badge.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/242c811d428b0200d8a9c9542c50fdfdf984b7dd/_base.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_breadcrumbs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_breakpoint.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_button-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_button.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_callout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_checkbox.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_classes.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_close-button.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_color.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_column.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_drilldown.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_dropdown-menu.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_dropdown.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_error.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_fieldset.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_flex-grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_flex-video.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_flex.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_flex.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_float.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_forms.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/51fffea0d5548c7c5d5b246a49b5a24125bcae3a/_global.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_grid.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_gutter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_help-text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/242c811d428b0200d8a9c9542c50fdfdf984b7dd/_helpers.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_input-group.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_label.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_label.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_layout.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_media-object.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_menu-icon.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_menu.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_meter.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_mixins.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_off-canvas.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_orbit.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_pagination.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_position.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/242c811d428b0200d8a9c9542c50fdfdf984b7dd/_print.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_progress-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_progress.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_range.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_reveal.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_row.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_select.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_selector.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e2f5dc3ec708e2b2230c5e92f6af3ce6295e23e8/_size.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_slider.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_sticky.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_switch.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_table.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_tabs.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e4e3804e29e9691a0ab6d8b53aa2edf9c340f221/_text.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_thumbnail.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_title-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_tooltip.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_top-bar.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/242c811d428b0200d8a9c9542c50fdfdf984b7dd/_typography.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_unit.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_util.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/28b7b56c642a559022ad512fcaf6788b9c48c718/_value.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/e952673b84b2b3c47543e98f21dd1c2334efbba6/_visibility.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/57627b8d2a5ab5928269f7889db6f42a2e3a581a/foundation-flex.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/57627b8d2a5ab5928269f7889db6f42a2e3a581a/foundation-rtl.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/51fffea0d5548c7c5d5b246a49b5a24125bcae3a/foundation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/.sass-cache/57627b8d2a5ab5928269f7889db6f42a2e3a581a/foundation.scssc" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/.bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/.editorconfig" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/.travis.yml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/LICENSE.md" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/partials/app.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/partials/app.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.codekit" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/css/foundation-flex.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/css/foundation-rtl.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/css/foundation.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/html/index.html" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/main-min.js.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/js/main-min.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/styles/main.css.map" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/styles/main.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/js/main.js" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/style/main.scss" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower_components/normalize-css/normalize.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/npm-debug.log" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dictionaries/sputnik.xml" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/.bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/.gitignore" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/.travis.yml" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/README.md" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/bower.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/charmap.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/component.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/index.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/normalize.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/normalize.min.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/package.json" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/supported.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/test/normalize.test.js" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bower_components/normalize/util/getCharMap.js" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/bower_components/foundation-sites/assets/foundation.scss" afterPath="$PROJECT_DIR$/bower_components/foundation-sites/assets/_foundation.scss" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bower.json" afterPath="$PROJECT_DIR$/bower.json" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="extrime.iws" />
@@ -23,7 +134,56 @@
     <favorites_list name="extrime" />
   </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file leaf-file-name="foundation.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/foundation.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.625">
+              <caret line="11" column="15" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="15" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="main.scss" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/style/main.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.16528925">
+              <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_foundation.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/assets/_foundation.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-1.875">
+              <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_global.scss" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/_global.scss">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="115.5">
+              <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Jade File" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -33,6 +193,13 @@
       <list>
         <option value="$PROJECT_DIR$/bower.json" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/src/js/app.js" />
+        <option value="$PROJECT_DIR$/src/jade/index.jade" />
+        <option value="$PROJECT_DIR$/src/html/head.jade" />
+        <option value="$PROJECT_DIR$/src/html/index.html" />
+        <option value="$PROJECT_DIR$/bower_components/foundation-sites/scss/foundation.scss" />
+        <option value="$PROJECT_DIR$/build/styles/main.css" />
+        <option value="$PROJECT_DIR$/src/style/main.scss" />
       </list>
     </option>
   </component>
@@ -47,11 +214,33 @@
   <component name="NamedScopeManager">
     <order />
   </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
   <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" />
   <component name="ProjectFrameBounds">
     <option name="y" value="23" />
     <option name="width" value="1280" />
     <option name="height" value="773" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Jade</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>JadeTabsAndSpaces</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -76,8 +265,8 @@
       <sortByType />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="Scratches" />
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -96,14 +285,116 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="style" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="styles" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="build" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="extrime" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bower_components" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="normalize-css" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="Settings.JavaScript.Bower" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="settings.editor.splitter.proportion" value="0.2" />
     <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="FullScreen" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/js/partials" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
@@ -124,6 +415,12 @@
       <method />
     </configuration>
     <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <pass-parent-envs>true</pass-parent-envs>
+      <envs />
       <method />
     </configuration>
   </component>
@@ -150,34 +447,48 @@
       <option name="project" value="LOCAL" />
       <updated>1463380887375</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="first commit">
+      <created>1463381834700</created>
+      <option name="number" value="00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1463381834700</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="23" width="1280" height="773" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32892805" sideWeight="0.49676898" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.39060205" sideWeight="0.49353796" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.2746365" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
-      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32892805" sideWeight="0.503231" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Application Servers" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Remote Host" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.28271407" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32796487" sideWeight="0.50646204" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
-      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
   </component>
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
@@ -196,7 +507,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.047923323">
           <caret line="2" column="25" selection-start-line="2" selection-start-column="25" selection-end-line="2" selection-end-column="25" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -204,7 +514,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.38155803">
           <caret line="16" column="13" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -212,7 +521,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -220,7 +528,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
       <provider editor-type-id="com.intellij.database.editor.CsvTableFileEditorProvider">
@@ -231,15 +538,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/_global.scss">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -247,6 +545,134 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/partials/app.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/main.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/js/partials/app.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/grid/_gutter.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/css/foundation-rtl.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-16.378254">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/dist/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/css/foundation.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/assets/foundation-flex.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.07154213">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/assets/foundation-rtl.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="28" selection-start-line="0" selection-start-column="0" selection-end-line="1" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/_global.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="115.5">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/foundation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.625">
+          <caret line="11" column="15" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="15" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/assets/_foundation.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-1.875">
+          <caret line="3" column="0" selection-start-line="3" selection-start-column="0" selection-end-line="3" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/foundation-sites/scss/util/_breakpoint.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.11923689">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/build/styles/main.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="14.173047">
+          <caret line="1" column="36" selection-start-line="1" selection-start-column="36" selection-end-line="1" selection-end-column="36" />
+          <folding>
+            <element signature="e#25812#26026#2" expanded="false" />
+            <element signature="e#26201#26542#2" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower_components/motion-ui/docs/animations.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-0.38338658">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/style/main.scss">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.16528925">
+          <caret line="4" column="27" selection-start-line="4" selection-start-column="27" selection-end-line="4" selection-end-column="27" />
           <folding />
         </state>
       </provider>
